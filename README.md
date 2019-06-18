@@ -7,3 +7,20 @@ Install libraries from lib folder into your BlueJ libraries folder (see [How do 
 ## Execution
 
 Run main in Main
+
+# CLI
+
+## Execution
+
+Linux:
+```
+javac -classpath ".:lib/*" Main.java
+java -classpath ".:lib/*" Main
+```
+
+Windows:
+```
+javac -classpath ".;lib/*" Main.java
+java -classpath ".;lib/*" Main
+```
+
