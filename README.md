@@ -1,3 +1,7 @@
+# Screenshot
+
+![Schneemann](screenshot.png)
+
 # BlueJ
 
 ## Preparation
